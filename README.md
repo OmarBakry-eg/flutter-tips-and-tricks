@@ -1,5 +1,7 @@
 # Table of Contents
 
+* [Covariant in Dart](#covariant-in-dart)
+* [Custom Errors in Streams in Dart](#custom-errors-in-streams-in-dart)
 * [Shake Animation in Flutter](#shake-animation-in-flutter)
 * [Throw Enums in Dart](#throw-enums-in-dart)
 * [`Future` Error Test in Flutter](#future-error-test-in-flutter)
@@ -204,6 +206,18 @@
 * [Type Promotion in Dart](#do-you-know-about-type-promotion-in-dart)
 * [Extract Minimum and Maximum Values in `List<num>` in Dart](#4-lines-of-dart-code-that-include-the-spread-operator-cascade-operator-generics-extensions-private-prefix-and-getters)
 * [Functions as First Class Citizens in Dart](#functions-as-first-class-citizens-in-dart)
+
+# Covariant in Dart
+
+[Source Code](source/covariant-in-dart.dart)
+
+![](images/covariant-in-dart.jpg)
+
+# Custom Errors in Streams in Dart
+
+[Source Code](source/custom-errors-in-streams-in-dart.dart)
+
+![](images/custom-errors-in-streams-in-dart.jpg)
 
 # Shake Animation in Flutter
 
