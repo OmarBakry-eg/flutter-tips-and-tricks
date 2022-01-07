@@ -1,5 +1,9 @@
 # Table of Contents
 
+* [Time Picker in Flutter](#time-picker-in-flutter)
+* [Throttled Print in Flutter](#throttled-print-in-flutter)
+* [Map Equality in Dart](#map-equality-in-dart)
+* [Unique Maps in Dart](#unique-maps-in-dart)
 * [Raw Auto Complete in Flutter](#raw-auto-complete-in-flutter)
 * [Title on `Object` in Dart](#title-on-object-in-dart)
 * [Compute in Flutter](#compute-in-flutter)
@@ -214,6 +218,32 @@
 * [Type Promotion in Dart](#do-you-know-about-type-promotion-in-dart)
 * [Extract Minimum and Maximum Values in `List<num>` in Dart](#4-lines-of-dart-code-that-include-the-spread-operator-cascade-operator-generics-extensions-private-prefix-and-getters)
 * [Functions as First Class Citizens in Dart](#functions-as-first-class-citizens-in-dart)
+
+# Time Picker in Flutter
+
+[Video Demo](https://youtu.be/s_YGWwbmrZQ)
+
+[Source Code](source/time-picker-in-flutter.dart)
+
+![](images/time-picker-in-flutter.jpg)
+
+# Throttled Print in Flutter
+
+[Source Code](source/throttled-print-in-flutter.dart)
+
+![](images/throttled-print-in-flutter.jpg)
+
+# Map Equality in Dart
+
+[Source Code](source/map-equality-in-dart.dart)
+
+![](images/map-equality-in-dart.jpg)
+
+# Unique Maps in Dart
+
+[Source Code](source/unique-maps-in-dart.dart)
+
+![](images/unique-maps-in-dart.jpg)
 
 # Raw Auto Complete in Flutter
 
