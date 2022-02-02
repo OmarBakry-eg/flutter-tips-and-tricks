@@ -1,5 +1,18 @@
 # Table of Contents
 
+* [`Object.hash` in Dart](#objecthash-in-dart)
+* [Expanded Equally in Flutter](#expanded-equally-in-flutter)
+* [Random Iterable Value in Dart](#random-iterable-value-in-dart)
+* [Hardcoded Strings in Flutter](#hardcoded-strings-in-flutter)
+* [Manually Scroll in List View in Flutter](#manually-scroll-in-list-view-in-flutter)
+* [`AsyncSnapshot` to `Widget` in Flutter](#asyncsnapshot-to-widget-in-flutter)
+* [Breadcrumbs in Flutter](#breadcrumbs-in-flutter)
+* [Unique `Map` Values in Dart](#unique-map-values-in-dart)
+* [Smart Quotes/Dashes in Flutter](#smart-quotesdashes-in-flutter)
+* [Haptic Feedback in Flutter](#haptic-feedback-in-flutter)
+* [Localization Delegates in Flutter](#localization-delegates-in-flutter)
+* [Extending Functions in Dart](#extending-functions-in-dart)
+* [Paginated `ListView` in Flutter](#paginated-listview-in-flutter)
 * [Immutable Classes in Dart](#immutable-classes-in-dart)
 * [Card Widget in Flutter](#card-widget-in-flutter)
 * [List Equality Ignoring Ordering in Dart](#list-equality-ignoring-ordering-in-dart)
@@ -222,6 +235,94 @@
 * [Type Promotion in Dart](#do-you-know-about-type-promotion-in-dart)
 * [Extract Minimum and Maximum Values in `List<num>` in Dart](#4-lines-of-dart-code-that-include-the-spread-operator-cascade-operator-generics-extensions-private-prefix-and-getters)
 * [Functions as First Class Citizens in Dart](#functions-as-first-class-citizens-in-dart)
+
+# `Object.hash` in Dart
+
+[Source Code](source/object-hash-in-dart.dart)
+
+![](images/object-hash-in-dart.jpg)
+
+# Expanded Equally in Flutter
+
+[Source Code](source/expanded-equally-in-flutter.dart)
+
+![](images/expanded-equally-in-flutter.jpg)
+
+# Random Iterable Value in Dart
+
+[Video Demo](https://youtu.be/ys6NatnIzOg)
+
+[Source Code](source/random-iterable-value-in-dart.dart)
+
+![](images/random-iterable-value-in-dart.jpg)
+
+# Hardcoded Strings in Flutter
+
+[Source Code](source/hardcoded-strings-in-flutter.dart)
+
+![](images/hardcoded-strings-in-flutter.jpg)
+
+# Manually Scroll in List View in Flutter
+
+[Video Demo](https://youtu.be/ZYC6yd0nI9s)
+
+[Source Code](source/manually-scroll-in-list-view-in-flutter.dart)
+
+![](images/manually-scroll-in-list-view-in-flutter.jpg)
+
+# `AsyncSnapshot` to `Widget` in Flutter
+
+[Source Code](source/asyncsnapshot-to-widget-in-flutter.dart)
+
+![](images/asyncsnapshot-to-widget-in-flutter.jpg)
+
+# Breadcrumbs in Flutter
+
+[Video Demo](https://youtu.be/_4JJR35B7lM)
+
+[Source Code](source/breadcrumbs-in-flutter.dart)
+
+![](images/breadcrumbs-in-flutter.jpg)
+
+# Unique `Map` Values in Dart
+
+[Source Code](source/unique-map-values-in-dart.dart)
+
+![](images/unique-map-values-in-dart.jpg)
+
+# Smart Quotes/Dashes in Flutter
+
+[Source Code](source/smart-quotes-dashes-in-flutter.dart)
+
+![](images/smart-quotes-dashes-in-flutter.jpg)
+
+# Haptic Feedback in Flutter
+
+[Video Demo](https://youtu.be/9kzrtLb0YCE)
+
+[Source Code](source/haptic-feedback-in-flutter.dart)
+
+![](images/haptic-feedback-in-flutter.jpg)
+
+# Localization Delegates in Flutter
+
+[Source Code](source/localization-delegates-in-flutter.dart)
+
+![](images/localization-delegates-in-flutter.jpg)
+
+# Extending Functions in Dart
+
+[Source Code](source/extending-functions-in-dart.dart)
+
+![](images/extending-functions-in-dart.jpg)
+
+# Paginated `ListView` in Flutter
+
+[Video Demo](https://youtu.be/V7ETQ9pBx34)
+
+[Source Code](source/paginated-listview-in-flutter.dart)
+
+![](images/paginated-listview-in-flutter.jpg)
 
 # Immutable Classes in Dart
 
