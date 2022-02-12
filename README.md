@@ -1,5 +1,10 @@
 # Table of Contents
 
+* [`ListTile` Shadow in Flutter](#listtile-shadow-in-flutter)
+* [Transparent AppBar in Flutter](#transparent-appbar-in-flutter)
+* [Constructors on Abstract Classes in Dart](#constructors-on-abstract-classes-in-dart)
+* [`@useResult` in Dart](#useresult-in-dart)
+* [`@mustCallSuper` in Dart](#mustcallsuper-in-dart)
 * [`Object.hash` in Dart](#objecthash-in-dart)
 * [Expanded Equally in Flutter](#expanded-equally-in-flutter)
 * [Random Iterable Value in Dart](#random-iterable-value-in-dart)
@@ -235,6 +240,36 @@
 * [Type Promotion in Dart](#do-you-know-about-type-promotion-in-dart)
 * [Extract Minimum and Maximum Values in `List<num>` in Dart](#4-lines-of-dart-code-that-include-the-spread-operator-cascade-operator-generics-extensions-private-prefix-and-getters)
 * [Functions as First Class Citizens in Dart](#functions-as-first-class-citizens-in-dart)
+
+# `ListTile` Shadow in Flutter
+
+[Source Code](source/listtile-shadow-in-flutter.dart)
+
+![](images/listtile-shadow-in-flutter.jpg)
+
+# Transparent AppBar in Flutter
+
+[Source Code](source/transparent-appbar-in-flutter.dart)
+
+![](images/transparent-appbar-in-flutter.jpg)
+
+# Constructors on Abstract Classes in Dart
+
+[Source Code](source/constructors-on-abstract-classes-in-dart.dart)
+
+![](images/constructors-on-abstract-classes-in-dart.jpg)
+
+# `@useResult` in Dart
+
+[Source Code](source/useresult-in-dart.dart)
+
+![](images/useresult-in-dart.jpg)
+
+# `@mustCallSuper` in Dart
+
+[Source Code](source/mustcallsuper-in-dart.dart)
+
+![](images/mustcallsuper-in-dart.jpg)
 
 # `Object.hash` in Dart
 
