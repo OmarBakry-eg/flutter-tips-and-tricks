@@ -1,5 +1,11 @@
 # Table of Contents
 
+* [Hide Sensitive Information in Flutter](#hide-sensitive-information-in-flutter)
+* [`Iterable.compactMap` in Dart](#iterablecompactmap-in-dart)
+* [`useEffect` in Flutter Hooks](#useeffect-in-flutter-hooks)
+* [Merging Streams in Dart](#merging-streams-in-dart)
+* [`Isolate` Stream in Dart](#isolate-stream-in-dart)
+* [Network Image Retry in Flutter](#network-image-retry-in-flutter)
 * [Reusable APIs in Flutter](#reusable-apis-in-flutter)
 * [`ListTile` Shadow in Flutter](#listtile-shadow-in-flutter)
 * [Transparent AppBar in Flutter](#transparent-appbar-in-flutter)
@@ -241,6 +247,44 @@
 * [Type Promotion in Dart](#do-you-know-about-type-promotion-in-dart)
 * [Extract Minimum and Maximum Values in `List<num>` in Dart](#4-lines-of-dart-code-that-include-the-spread-operator-cascade-operator-generics-extensions-private-prefix-and-getters)
 * [Functions as First Class Citizens in Dart](#functions-as-first-class-citizens-in-dart)
+
+# Hide Sensitive Information in Flutter
+
+[Video Demo](https://www.youtube.com/watch?v=N16cqlAbtyE)
+
+[Source Code](source/hide-sensitive-information-in-flutter.dart)
+
+![](images/hide-sensitive-information-in-flutter.jpg)
+
+# `Iterable.compactMap` in Dart
+
+[Source Code](source/iterable-compactmap-in-dart.dart)
+
+![](images/iterable-compactmap-in-dart.jpg)
+
+# `useEffect` in Flutter Hooks
+
+[Source Code](source/useeffect-in-flutter-hooks.dart)
+
+![](images/useeffect-in-flutter-hooks.jpg)
+
+# Merging Streams in Dart
+
+[Source Code](source/merging-streams-in-dart.dart)
+
+![](images/merging-streams-in-dart.jpg)
+
+# `Isolate` Stream in Dart
+
+[Source Code](source/isolate-stream-in-dart.dart)
+
+![](images/isolate-stream-in-dart.jpg)
+
+# Network Image Retry in Flutter
+
+[Source Code](source/network-image-retry-in-flutter.dart)
+
+![](images/network-image-retry-in-flutter.jpg)
 
 # Reusable APIs in Flutter
 
