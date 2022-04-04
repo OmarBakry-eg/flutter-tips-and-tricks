@@ -1,5 +1,41 @@
 # Table of Contents
 
+* [Observe Network Connection in Flutter](#observe-network-connection-in-flutter)
+* [Restartable Timer in Dart](#restartable-timer-in-dart)
+* [`LazyStream` in Flutter and Dart](#lazystream-in-flutter-and-dart)
+* [Cancelable APIs in Flutter](#cancelable-apis-in-flutter)
+* [Asset Data in Flutter](#asset-data-in-flutter)
+* [API Caching in Flutter](#api-caching-in-flutter)
+* [`FutureGroup` in Dart](#futuregroup-in-dart)
+* [Flatten `Iterable<bool>` in Dart](#flatten-iterablebool-in-dart)
+* [Caching Temp Files in Flutter](#caching-temp-files-in-flutter)
+* [Custom Lists in Dart](#custom-lists-in-dart)
+* [Optional Chaining in Dart](#optional-chaining-in-dart)
+* [MapList in Flutter](#maplist-in-flutter)
+* [`Future<bool>` in Flutter](#futurebool-in-flutter)
+* [Async Bloc Init in Flutter](#async-bloc-init-in-flutter)
+* [Firebase Auth Errors in Flutter](#firebase-auth-errors-in-flutter)
+* [Debug Strings in Flutter](#debug-strings-in-flutter)
+* [Keyboard Appearance in Flutter](#keyboard-appearance-in-flutter)
+* [Get `String` Data in Dart](#get-string-data-in-dart)
+* [`Stream.startWith` in Flutter](#streamstartwith-in-flutter)
+* [Optional Functions in Dart](#optional-functions-in-dart)
+* [`AnnotatedRegion` in Flutter](#annotatedregion-in-flutter)
+* [Unordered `Map` Equality in Dart](#unordered-map-equality-in-dart)
+* [`Iterable` to `ListView` in Flutter](#iterable-to-listview-in-flutter)
+* [Password Mask in Flutter](#password-mask-in-flutter)
+* [Fast `Object.toString()` in Dart](#fast-objecttostring-in-dart)
+* [Copying Bloc State in Flutter](#copying-bloc-state-in-flutter)
+* [`Iterable` Subscripts in Dart](#iterable-subscripts-in-dart)
+* [`useState` in Flutter Hooks](#usestate-in-flutter-hooks)
+* [Folding Iterables in Dart](#folding-iterables-in-dart)
+* [Custom Iterables in Dart](#custom-iterables-in-dart)
+* [Class Clusters in Dart](#class-clusters-in-dart)
+* [`Iterable` +/- in Dart](#iterable---in-dart)
+* [Periodic Streams in Dart](#periodic-streams-in-dart)
+* [`EmptyOnError` in Dart](#emptyonerror-in-dart)
+* [`Stream<T>` Initial Value in Flutter](#streamt-initial-value-in-flutter)
+* [`Double.normalize` in Dart](#doublenormalize-in-dart)
 * [Hide Sensitive Information in Flutter](#hide-sensitive-information-in-flutter)
 * [`Iterable.compactMap` in Dart](#iterablecompactmap-in-dart)
 * [`useEffect` in Flutter Hooks](#useeffect-in-flutter-hooks)
@@ -247,6 +283,228 @@
 * [Type Promotion in Dart](#do-you-know-about-type-promotion-in-dart)
 * [Extract Minimum and Maximum Values in `List<num>` in Dart](#4-lines-of-dart-code-that-include-the-spread-operator-cascade-operator-generics-extensions-private-prefix-and-getters)
 * [Functions as First Class Citizens in Dart](#functions-as-first-class-citizens-in-dart)
+
+# Observe Network Connection in Flutter
+
+[Source Code](source/observe-network-connection-in-flutter.dart)
+
+![](images/observe-network-connection-in-flutter.jpg)
+
+# Restartable Timer in Dart
+
+[Source Code](source/restartable-timer-in-dart.dart)
+
+![](images/restartable-timer-in-dart.jpg)
+
+# `LazyStream` in Flutter and Dart
+
+[Source Code](source/lazystream-in-flutter-and-dart.dart)
+
+![](images/lazystream-in-flutter-and-dart.jpg)
+
+# Cancelable APIs in Flutter
+
+[Source Code](source/cancelable-apis-in-flutter.dart)
+
+![](images/cancelable-apis-in-flutter.jpg)
+
+# Asset Data in Flutter
+
+[Source Code](source/asset-data-in-flutter.dart)
+
+![](images/asset-data-in-flutter.jpg)
+
+# API Caching in Flutter
+
+[Source Code](source/api-caching-in-flutter.dart)
+
+![](images/api-caching-in-flutter.jpg)
+
+# `FutureGroup` in Dart
+
+[Source Code](source/futuregroup-in-dart.dart)
+
+![](images/futuregroup-in-dart.jpg)
+
+# Flatten `Iterable<bool>` in Dart
+
+[Source Code](source/flatten-iterablebool-in-dart.dart)
+
+![](images/flatten-iterablebool-in-dart.jpg)
+
+# Caching Temp Files in Flutter
+
+[Source Code](source/caching-temp-files-in-flutter.dart)
+
+![](images/caching-temp-files-in-flutter.jpg)
+
+# Custom Lists in Dart
+
+[Source Code](source/custom-lists-in-dart.dart)
+
+![](images/custom-lists-in-dart.jpg)
+
+# Optional Chaining in Dart
+
+[Source Code](source/optional-chaining-in-dart.dart)
+
+![](images/optional-chaining-in-dart.jpg)
+
+# MapList in Flutter
+
+[Source Code](source/maplist-in-flutter.dart)
+
+![](images/maplist-in-flutter.jpg)
+
+# `Future<bool>` in Flutter
+
+[Source Code](source/futurebool-in-flutter.dart)
+
+![](images/futurebool-in-flutter.jpg)
+
+# Async Bloc Init in Flutter
+
+[Source Code](source/async-bloc-init-in-flutter.dart)
+
+![](images/async-bloc-init-in-flutter.jpg)
+
+# Firebase Auth Errors in Flutter
+
+[Source Code](source/firebase-auth-errors-in-flutter.dart)
+
+![](images/firebase-auth-errors-in-flutter.jpg)
+
+# Debug Strings in Flutter
+
+[Source Code](source/debug-strings-in-flutter.dart)
+
+![](images/debug-strings-in-flutter.jpg)
+
+# Keyboard Appearance in Flutter
+
+[Source Code](source/keyboard-appearance-in-flutter.dart)
+
+![](images/keyboard-appearance-in-flutter.jpg)
+
+# Get `String` Data in Dart
+
+[Source Code](source/get-string-data-in-dart.dart)
+
+![](images/get-string-data-in-dart.jpg)
+
+# `Stream.startWith` in Flutter
+
+[Source Code](source/streamstartwith-in-flutter.dart)
+
+![](images/streamstartwith-in-flutter.jpg)
+
+# Optional Functions in Dart
+
+[Source Code](source/optional-functions-in-dart.dart)
+
+![](images/optional-functions-in-dart.jpg)
+
+# `AnnotatedRegion` in Flutter
+
+[Source Code](source/annotatedregion-in-flutter.dart)
+
+![](images/annotatedregion-in-flutter.jpg)
+
+# Unordered `Map` Equality in Dart
+
+[Source Code](source/unordered-map-equality-in-dart.dart)
+
+![](images/unordered-map-equality-in-dart.jpg)
+
+# `Iterable` to `ListView` in Flutter
+
+[Source Code](source/iterable-to-listview-in-flutter.dart)
+
+![](images/iterable-to-listview-in-flutter.jpg)
+
+# Password Mask in Flutter
+
+[Video Demo](https://youtu.be/sVRiM_1GGBA)
+
+[Source Code](source/password-mask-in-flutter.dart)
+
+![](images/password-mask-in-flutter.jpg)
+
+# Fast `Object.toString()` in Dart
+
+[Source Code](source/fast-object-tostring-in-dart.dart)
+
+![](images/fast-object-tostring-in-dart.jpg)
+
+# Copying Bloc State in Flutter
+
+[Source Code](source/copying-bloc-state-in-flutter.dart)
+
+![](images/copying-bloc-state-in-flutter.jpg)
+
+# `Iterable` Subscripts in Dart
+
+[Source Code](source/iterable-subscripts-in-dart.dart)
+
+![](images/iterable-subscripts-in-dart.jpg)
+
+# `useState` in Flutter Hooks
+
+[Video Demo](https://youtu.be/weNzfLm1bDI)
+
+[Source Code](source/usestate-in-flutter-hooks.dart)
+
+![](images/usestate-in-flutter-hooks.jpg)
+
+# Folding Iterables in Dart
+
+[Source Code](source/folding-iterables-in-dart.dart)
+
+![](images/folding-iterables-in-dart.jpg)
+
+# Custom Iterables in Dart
+
+[Source Code](source/custom-iterables-in-dart.dart)
+
+![](images/custom-iterables-in-dart.jpg)
+
+# Class Clusters in Dart
+
+[Source Code](source/class-clusters-in-dart.dart)
+
+![](images/class-clusters-in-dart.jpg)
+
+# `Iterable` +/- in Dart
+
+[Source Code](source/iterable-plus-minus-in-dart.dart)
+
+![](images/iterable-plus-minus-in-dart.jpg)
+
+# Periodic Streams in Dart
+
+[Source Code](source/periodic-streams-in-dart.dart)
+
+![](images/periodic-streams-in-dart.jpg)
+
+# `EmptyOnError` in Dart
+
+[Source Code](source/emptyonerror-in-dart.dart)
+
+![](images/emptyonerror-in-dart.jpg)
+
+# `Stream<T>` Initial Value in Flutter
+
+[Video Demo](https://youtu.be/vF8Nxlw1uY8)
+
+[Source Code](source/stream<t>-initial-value-in-flutter.dart)
+
+![](images/stream<t>-initial-value-in-flutter.jpg)
+
+# `Double.normalize` in Dart
+
+[Source Code](source/doublenormalize-in-dart.dart)
+
+![](images/doublenormalize-in-dart.jpg)
 
 # Hide Sensitive Information in Flutter
 
