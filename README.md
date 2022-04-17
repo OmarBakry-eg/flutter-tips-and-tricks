@@ -1,5 +1,15 @@
 # Table of Contents
 
+* [`FilterChip` in Flutter](#filterchip-in-flutter)
+* [Function Pointers in Flutter](#function-pointers-in-flutter)
+* [Multi-field Object Comparison in Dart](#multi-field-object-comparison-in-dart)
+* [Expectation Extensions in Flutter](#expectation-extensions-in-flutter)
+* [Delay Extension in Flutter](#delay-extension-in-flutter)
+* [Hide Keyword in Dart](#hide-keyword-in-dart)
+* [Firebase Batch Operations in Flutter](#firebase-batch-operations-in-flutter)
+* [Show Keyword in Dart](#show-keyword-in-dart)
+* [Cherry Pick Provider Changes in Flutter](#cherry-pick-provider-changes-in-flutter)
+* [URL Data in Dart](#url-data-in-dart)
 * [Observe Network Connection in Flutter](#observe-network-connection-in-flutter)
 * [Restartable Timer in Dart](#restartable-timer-in-dart)
 * [`LazyStream` in Flutter and Dart](#lazystream-in-flutter-and-dart)
@@ -283,6 +293,68 @@
 * [Type Promotion in Dart](#do-you-know-about-type-promotion-in-dart)
 * [Extract Minimum and Maximum Values in `List<num>` in Dart](#4-lines-of-dart-code-that-include-the-spread-operator-cascade-operator-generics-extensions-private-prefix-and-getters)
 * [Functions as First Class Citizens in Dart](#functions-as-first-class-citizens-in-dart)
+
+# `FilterChip` in Flutter
+
+[Video Demo](https://youtu.be/NcewIu3faU0)
+
+[Source Code](source/filterchip-in-flutter.dart)
+
+![](images/filterchip-in-flutter.jpg)
+
+# Function Pointers in Flutter
+
+[Source Code](source/function-pointers-in-flutter.dart)
+
+![](images/function-pointers-in-flutter.jpg)
+
+# Multi-field Object Comparison in Dart
+
+[Source Code](source/multi-field-object-comparison-in-dart.dart)
+
+![](images/multi-field-object-comparison-in-dart.jpg)
+
+# Expectation Extensions in Flutter
+
+[Source Code](source/expectation-extensions-in-flutter.dart)
+
+![](images/expectation-extensions-in-flutter.jpg)
+
+# Delay Extension in Flutter
+
+[Source Code](source/delay-extension-in-flutter.dart)
+
+![](images/delay-extension-in-flutter.jpg)
+
+# Hide Keyword in Dart
+
+[Source Code](source/hide-keyword-in-dart.dart)
+
+![](images/hide-keyword-in-dart.jpg)
+
+# Firebase Batch Operations in Flutter
+
+[Source Code](source/firebase-batch-operations-in-flutter.dart)
+
+![](images/firebase-batch-operations-in-flutter.jpg)
+
+# Show Keyword in Dart
+
+[Source Code](source/show-keyword-in-dart.dart)
+
+![](images/show-keyword-in-dart.jpg)
+
+# Cherry Pick Provider Changes in Flutter
+
+[Source Code](source/cherry-pick-provider-changes-in-flutter.dart)
+
+![](images/cherry-pick-provider-changes-in-flutter.jpg)
+
+# URL Data in Dart
+
+[Source Code](source/url-data-in-dart.dart)
+
+![](images/url-data-in-dart.jpg)
 
 # Observe Network Connection in Flutter
 
