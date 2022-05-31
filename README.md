@@ -1,5 +1,11 @@
 # Table of Contents
 
+* [Stretching `GridView` Items in Flutter](#stretching-gridview-items-in-flutter)
+* [Email Drag and Drop in Flutter](#email-drag-and-drop-in-flutter)
+* [Cherry-Picking Functions in Dart](#cherry-picking-functions-in-dart)
+* [Integer Range Extension in Dart](#integer-range-extension-in-dart)
+* [Static vs Factory Constructors in Dart](#static-vs-factory-constructors-in-dart)
+* [Result Type in Dart](#result-type-in-dart)
 * [`StreamController` Sink in Flutter](#streamcontroller-sink-in-flutter)
 * [Enum Members in Dart 2.17](#enum-members-in-dart-217)
 * [Constructor vs Factory Constructor in Dart](#constructor-vs-factory-constructor-in-dart)
@@ -311,6 +317,46 @@
 * [Type Promotion in Dart](#do-you-know-about-type-promotion-in-dart)
 * [Extract Minimum and Maximum Values in `List<num>` in Dart](#4-lines-of-dart-code-that-include-the-spread-operator-cascade-operator-generics-extensions-private-prefix-and-getters)
 * [Functions as First Class Citizens in Dart](#functions-as-first-class-citizens-in-dart)
+
+# Stretching `GridView` Items in Flutter
+
+[Video Demo](https://youtu.be/oYj0_JJnjfc)
+
+[Source Code](source/stretching-gridview-items-in-flutter.dart)
+
+![](images/stretching-gridview-items-in-flutter.jpg)
+
+# Email Drag and Drop in Flutter
+
+[Video Demo](https://youtu.be/UMOoBaw1tBE)
+
+[Source Code](source/email-drag-and-drop-in-flutter.dart)
+
+![](images/email-drag-and-drop-in-flutter.jpg)
+
+# Cherry Picking Functions in Dart
+
+[Source Code](source/cherry-picking-functions-in-dart.dart)
+
+![](images/cherry-picking-functions-in-dart.jpg)
+
+# Integer Range extension in Dart
+
+[Source Code](source/integer-range-extension-in-dart.dart)
+
+![](images/integer-range-extension-in-dart.jpg)
+
+# Static vs Factory Constructors in Dart
+
+[Source Code](source/static-vs-factory-constructors-in-dart.dart)
+
+![](images/static-vs-factory-constructors-in-dart.jpg)
+
+# Result Type in Dart
+
+[Source Code](source/result-type-in-dart.dart)
+
+![](images/result-type-in-dart.jpg)
 
 # `StreamController` Sink in Flutter
 
